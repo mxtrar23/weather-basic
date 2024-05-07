@@ -1,0 +1,3 @@
+<?php
+  const API_URL = 'http://api.weatherapi.com/v1/current.json?key=[YOUR_KEY]&q=Bogota&aqi=no';
+?>
